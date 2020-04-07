@@ -1,7 +1,7 @@
 'use strict';
 const electron = require('electron');
 const cliTruncate = require('cli-truncate');
-const {download} = require('electron-dl');
+const {download} = require('grape-electron-dl');
 const isDev = require('electron-is-dev');
 
 const webContents = win => win.webContents || (win.getWebContents && win.getWebContents());
