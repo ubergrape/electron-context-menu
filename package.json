@@ -1,6 +1,6 @@
 {
 	"name": "grape-electron-context-menu",
-	"version": "0.16.0",
+	"version": "1.0.0-0.16.0",
 	"description": "Context menu for your Electron app",
 	"license": "MIT",
 	"repository": "sindresorhus/electron-context-menu",
