@@ -31,8 +31,8 @@
 	],
 	"dependencies": {
 		"cli-truncate": "^2.0.0",
-		"electron-dl": "^1.2.0",
-		"electron-is-dev": "^1.0.1"
+		"electron-is-dev": "^1.0.1",
+		"grape-electron-dl": "^1.0.0-3.0.0"
 	},
 	"devDependencies": {
 		"@types/node": "^12.0.10",
